@@ -8,6 +8,4 @@ I build tools for working with AI and crypto, from agent systems and research wo
 
 ## What I’m building
 
-**Xed** packages reusable Codex workflows and bounded agent roles. **Bifrost** makes coding-agent behavior observable and inspectable. Both are still private; I’m preparing selected work for release.
 
-I’m also working on a writing skill and a collection of recipes. I’ll link them here when they’re ready to share.
